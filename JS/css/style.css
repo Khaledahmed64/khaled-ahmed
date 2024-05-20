@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+    justify-content: center;
+}
+.buton{
+    
+     width: 150px;
+    height: 50px;
+    background-color:black;
+    color: white;
+}
+.buton:hover{
+    background-color: antiquewhite;
+    color: black;
+
+
+} 
+p{
+    font-size: 25px;
+}
